@@ -177,7 +177,7 @@ Section: Hero / Header Styling
 }
 
 .player:hover {
-  box-shadow: 0px 0px 40px 0px #e02c6d;
+  box-shadow: 0px 0px 10px 0px #e02c6d;
   transition: 0.6s;
   transform: translateY(-5px);
 }
