@@ -290,7 +290,7 @@ Section: Hero / Header Styling
 .day {
   margin: 20px auto;
   padding: 10px 10px;
-  border-radius: 2px;
+  border-radius: 50%;
   color: #fff;
   background-color: #333;
 }
