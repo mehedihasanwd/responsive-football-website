@@ -289,7 +289,7 @@ Section: Hero / Header Styling
 .date,
 .day {
   margin: 20px auto;
-  padding: 3px 20px;
+  padding: 10px 10px;
   border-radius: 2px;
   color: #fff;
   background-color: #333;
@@ -529,8 +529,8 @@ input.btn-submit {
 
   .date,
   .day {
-    padding: 5px 15px;
-    margin: 10px auto;
+    padding: 5px 5px;
+    border-radius: 50%;
     font-size: 13px;
   }
 
@@ -541,6 +541,10 @@ input.btn-submit {
   /*----------------------------------
   Section: Contact Responsiveness
   -----------------------------------*/
+  #contact-section.section-padding {
+    padding-top: 20px;
+  }
+
   input.btn-submit {
     width: 40%;
   }
