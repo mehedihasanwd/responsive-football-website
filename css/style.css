@@ -382,6 +382,12 @@ input.btn-submit {
   line-height: 24px;
 }
 
+#highlights-section.section-padding,
+#calendar-section.section-padding,
+#contact-section.section-padding {
+  padding: 0px 0px 80px;
+}
+
 /* ---------------------------
   Responsive Media Queries
 ------------------------------ */
